@@ -6,7 +6,7 @@ A JS API to trigger a chain of speech bubble style notifications on your website
 Sample usage:
 
 To use, add the library to your page
-<script type="text/javascript" src="tourme.js"></script>
+&lt;script type="text/javascript" src="tourme.js"&gt;&lt;/script&gt;
 
 Initialize TourMe as below:
 --------------------
